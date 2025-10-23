@@ -24,9 +24,9 @@ if st.button("计算 BMI"):
         elif bmi <= 29.9:
             st.info("md,死肥仔,gnn")
         else:
-            st.error("ejz Pro Max 版")
+            st.error("你比ejz都有天赋")
     else:
-        st.error("请输入有效的身高和体重！")
+        st.error("你会打字的嘛沙雕")
 
 # 页脚
 st.markdown("---")
